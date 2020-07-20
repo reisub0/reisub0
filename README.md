@@ -3,6 +3,7 @@
 </p>
 
 <h3>Why, hello there.</h3>
+
 Here's my `Manifest.toml`:
 
 ```toml
@@ -19,7 +20,7 @@ employer = 'MathWorks Inc.'
 
 [bio]
 categories = [
-    'generalist',
+  'generalist',
 ]
 interests = [
   'functional-programming',
@@ -27,11 +28,11 @@ interests = [
   'open-source',
 ]
 programming-languages = [
-   'c/cpp',
-   'python',
-   'unity/c#',
-   'rust',
-   'go',
+  'c/cpp',
+  'python',
+  'unity/c#',
+  'rust',
+  'go',
 ]
 
 
