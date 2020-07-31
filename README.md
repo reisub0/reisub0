@@ -37,7 +37,7 @@ programming-languages = [
 
 ```
 
-You can find my blog here: https://reisub0.github.io
+You can find my blog at https://reisub0.github.io.
 
 I'm always interested in meeting new people, so feel free to reach out to me using the links below.
 
