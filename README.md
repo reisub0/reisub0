@@ -42,7 +42,7 @@ tech = [ # This list is deliberately kept short for the sake of brevity
 ]
 ```
 
-You can find my self-hosted blog at reisub0.blog or learn more about me by visiting  at https://reisub0.github.io.
+You can find my self-hosted blog at [reisub0.blog](https://reisub0.blog)!
 
 I'm always interested in meeting new people, so feel free to reach out to me using the links below :)
 
